@@ -8,7 +8,7 @@
 
 <br>
 
-![Karllos Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=KarllosMiguel&show_icons=true&theme=dracula)
+![Karllos Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=KarllosMiguel&show_icons=true&theme=ligth)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarllosMiguel)](https://github.com/anuraghazra/github-readme-stats)
 
