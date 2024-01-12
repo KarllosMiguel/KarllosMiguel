@@ -1,7 +1,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-# 👋🏻Olá, sou <span style="color:red;"> Karllos Miguel </span>
+![Captura_de_tela_2024-01-12_012835-removebg-preview (1)](https://github.com/KarllosMiguel/KarllosMiguel/assets/103325515/523ba24c-e836-4c9b-a3a2-7c2c3b077186)
+
 ## <code>Desenvolverdor Front-end,Pentester & Entusiasta de hardware e IOT </code>
  <div>
 
