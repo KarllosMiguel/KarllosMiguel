@@ -14,7 +14,7 @@
   <li>Dev Front-end & Python 👨🏻‍💻</li>
 </ul>
 
-![pixel-jeff-clipa-s](https://github.com/KarllosMiguel/KarllosMiguel/assets/103325515/aa5ba047-9fee-4964-89ff-7bd8dec907be)
+![pixel-jeff-clipa-s](https://github.com/KarllosMiguel/KarllosMiguel/assets/103325515/24201f70-3a64-4e29-ab93-01fec3011713)
 
 
 ## Tech Skills
