@@ -40,7 +40,7 @@
 <img src="https://devpy.com.br/media/posts_img/pixel-jeff-clipa-s.gif"/>
 
 ## Tech Skills
-<div  class="tech">
+<div  class="tech" style="font-size:50px;">
 <i class="devicon-html5-plain colored"></i>
 <i class="devicon-css3-plain colored"></i>
 <i class="devicon-javascript-plain colored"></i>
