@@ -12,18 +12,19 @@
   <li>Arduino Maker 🤖</li>
   <li>Dev Front-end & Python 👨🏻‍💻</li>
 </ul>
+
 <img src="https://devpy.com.br/media/posts_img/pixel-jeff-clipa-s.gif"/>
 
 ## Tech Skills
 <div  class="tech">
-<code>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>
-</code>
+
 </div>
 
 ## Ferramentas
