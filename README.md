@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <style>
+          
     .name{
         background: #1D23CF;
     background: linear-gradient(to right, #1D23CF 0%, #8530CF 100%);
@@ -22,6 +23,7 @@
         display:flex;
         width:auto;
     }
+          
 </style>
 
 # 👋🏻Olá, sou <span class="name"> Karllos Miguel </span>
