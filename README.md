@@ -13,7 +13,8 @@
   <li>Dev Front-end & Python 👨🏻‍💻</li>
 </ul>
 
-<img src="https://devpy.com.br/media/posts_img/pixel-jeff-clipa-s.gif"/>
+![pixel-jeff-clipa-s](https://github.com/KarllosMiguel/KarllosMiguel/assets/103325515/aa5ba047-9fee-4964-89ff-7bd8dec907be)
+
 
 ## Tech Skills
 <div  class="tech">
