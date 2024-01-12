@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <style>
-          
     .name{
         background: #1D23CF;
     background: linear-gradient(to right, #1D23CF 0%, #8530CF 100%);
@@ -23,7 +22,6 @@
         display:flex;
         width:auto;
     }
-          
 </style>
 
 # 👋🏻Olá, sou <span class="name"> Karllos Miguel </span>
@@ -40,12 +38,12 @@
 <img src="https://devpy.com.br/media/posts_img/pixel-jeff-clipa-s.gif"/>
 
 ## Tech Skills
-<div  class="tech" style="font-size:50px;">
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-css3-plain colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-react-original colored"></i>
-<i class="devicon-arduino-plain colored"></i> 
+<div  class="tech">
+<i style="font-size:50px;" class="devicon-html5-plain colored"></i>
+<i style="font-size:50px;"class="devicon-css3-plain colored"></i>
+<i style="font-size:50px;"class="devicon-javascript-plain colored"></i>
+<i style="font-size:50px;"class="devicon-react-original colored"></i>
+<i style="font-size:50px;"class="devicon-arduino-plain colored"></i> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>
 </div>
 
