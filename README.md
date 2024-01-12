@@ -1,30 +1,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<style>
-    .name{
-        background: #1D23CF;
-    background: linear-gradient(to right, #1D23CF 0%, #8530CF 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight:bold;
-
-    }
-    code{
-        color:#eeee;
-        
-    }
-    .tech{
-        font-size:50px;
-        
-    }
-    .Socia{
-        display:flex;
-        width:auto;
-    }
-</style>
-
-# 👋🏻Olá, sou <span class="name"> Karllos Miguel </span>
+# 👋🏻Olá, sou <span style="color:red;"> Karllos Miguel </span>
 ## <code>Desenvolverdor Front-end,Pentester & Entusiasta de hardware e IOT </code>
  <div>
 
