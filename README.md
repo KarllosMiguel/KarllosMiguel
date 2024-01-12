@@ -16,12 +16,14 @@
 
 ## Tech Skills
 <div  class="tech">
-<i style="font-size:50px;" class="devicon-html5-plain colored"></i>
-<i style="font-size:50px;"class="devicon-css3-plain colored"></i>
-<i style="font-size:50px;"class="devicon-javascript-plain colored"></i>
-<i style="font-size:50px;"class="devicon-react-original colored"></i>
-<i style="font-size:50px;"class="devicon-arduino-plain colored"></i> 
+<code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>
+</code>
 </div>
 
 ## Ferramentas
