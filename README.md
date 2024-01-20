@@ -50,6 +50,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 
+</div>
 
 ## Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarllosMiguel&show_icons=true&theme=transparent)
