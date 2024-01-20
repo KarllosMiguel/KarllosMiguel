@@ -40,7 +40,9 @@
 ## Social
 <div style="display:flex;">
 <a href="https://github.com/KarllosMiguel">
+ 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 </a>
 
  <a href="https://www.linkedin.com/in/karllos-miguel-732361238/">
