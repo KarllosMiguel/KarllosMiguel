@@ -56,7 +56,7 @@
 </div>
 
 ## Status
-<div style="display:flex; align-items:center;">
+<div style="display:flex; align-items: center;">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarllosMiguel&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarllosMiguel&layout=compact&theme=transparent)
