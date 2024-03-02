@@ -1,6 +1,7 @@
 <h1 align="center">
  
-![Captura_de_tela_2024-01-12_012835-removebg-preview (1)](https://github.com/KarllosMiguel/KarllosMiguel/assets/103325515/523ba24c-e836-4c9b-a3a2-7c2c3b077186)
+![Logo](https://github.com/KarllosMiguel/Portfolio/assets/103325515/71427720-57ea-45f6-95fe-688572258ff6)
+
 
 </h1>
 
@@ -14,9 +15,6 @@
   <li>Arduino Maker 🤖</li>
   <li>Dev Front-end & Python 👨🏻‍💻</li>
 </ul>
-
-![pixel-jeff-clipa-s](https://github.com/KarllosMiguel/KarllosMiguel/assets/103325515/24201f70-3a64-4e29-ab93-01fec3011713)
-
 
 ## Tech Skills
 <div style="display:flex;">
