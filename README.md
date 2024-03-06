@@ -1,8 +1,5 @@
-<h1 align="center">
- 
-![Logo](https://github.com/KarllosMiguel/Portfolio/assets/103325515/71427720-57ea-45f6-95fe-688572258ff6)
-
-
+<h1 style="text-align:center;">
+ KarllosMiguel
 </h1>
 
 ## <code>Desenvolverdor Front-end,Pentester & Entusiasta de hardware e IOT </code>
